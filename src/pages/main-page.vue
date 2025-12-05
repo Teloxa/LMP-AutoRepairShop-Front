@@ -19,7 +19,7 @@
 
         <!-- Primary button (Call to Action) -->
         <button
-          class="px-8 py-3 text-lg font-bold bg-sky-600 hover:bg-sky-500 text-white rounded-full shadow-lg transition duration-300 ease-in-out transform hover:scale-105"
+          class="px-8 py-3 font-bold bg-white text-sky-700 border border-sky-600 rounded-full shadow-lg hover:bg-sky-50 hover:text-sky-800"
           @click="$router.push('/clients')"
         >
           Make a quote

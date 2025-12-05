@@ -211,7 +211,7 @@
     </ul>
 
     <button
-      class="bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-md font-bold"
+      class="bg-white text-sky-700 border font-bold border-sky-600 px-4 py-2 rounded-md"
       @click="$router.push('/login')"
     >
       Log In
